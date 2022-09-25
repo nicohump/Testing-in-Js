@@ -1,0 +1,19 @@
+{
+  "name": "testing-in-js",
+  "version": "1.0.0",
+  "description": "Introduccion al testing en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicohump/Testing-in-Js.git"
+  },
+  "author": "niCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicohump/Testing-in-Js/issues"
+  },
+  "homepage": "https://github.com/nicohump/Testing-in-Js#readme"
+}
